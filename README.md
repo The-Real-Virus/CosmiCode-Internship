@@ -1,5 +1,8 @@
 # 🚀CosmiCode-Internship🚀  
-## 🤝Starting An Intern Journey With CosmiCode . Hope For The Best !  
+- Domain: ***Cyber Security***  
+## 🤝Starting A Journey With CosmiCode.  
+- 🌹Hope For The Best🌹  
+
 > [!IMPORTANT]  
 > ***WILL FOLLOW THE GUIDENCE AND USE THIS REPO WELL MANNERED***  
 
@@ -12,5 +15,5 @@
 5) `🛠️Materials`
    - Other Required Materials Will Be Uploaded As Per Guidence.
 
-### ⚠️!
+### ⚠️
 > This Repository is For Internship And Under SuperVison of CosmiCode.  
