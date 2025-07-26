@@ -1,0 +1,6 @@
+ALL THE NETWORK SETTINGS ARE PERFECT & WORKING INCLUDING , 
+1) VirtualBox Adapters .
+2) Host Drivers .
+3) Machines Configurations (NAT , BRIDGE , HOST ONLY)
+
+ALSO MENTIONED IN TASK ONE !

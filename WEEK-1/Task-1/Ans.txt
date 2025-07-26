@@ -1,0 +1,4 @@
+1) As A Hacker, i Already Have All The Tools & Virtual Machines including Core Linux .
+2) All The Requirements Are Full Filled As Per Guideline .
+3) Using VirtualBox For Machines With Best Networking Settings including Bridge & NAT Setups .
+4) So Our System is UP (Task 1) Completed Here . 
