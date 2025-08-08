@@ -1,0 +1,7 @@
+installation & Commands Used :
+
+sudo apt install -y openvas
+sudo gvm-setup
+sudo gvm-check-setup
+sudo gvm-start
+sudo gvm-stop
