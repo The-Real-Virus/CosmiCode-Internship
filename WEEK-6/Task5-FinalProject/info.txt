@@ -1,0 +1,18 @@
+i conduct basic security assessment of my network (metasploitable2) . 
+as this process goes from below steps . 
+
+1) Reconnaissance / footprinting / information gathering (Active & Passive) (OSINT)
+
+2) Scanning / vulnerability assessment (Active & Passive)
+
+3) Exploitation
+
+4) Maintaining Access (optional)
+
+5) clearing tracks
+
+6) Documentation / Reporting
+
+7) Presentation
+
+for own lab demonstration i choose a simple path .
